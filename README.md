@@ -1,4 +1,4 @@
-# 🖥️ Unix Yetki Yükseltme ve Güvenlik Denetim Aracı
+# 🖥️ Mac Os ve Unix Yetki Yükseltme ve Güvenlik Denetim Aracı
 
 [![Versiyon](https://img.shields.io/badge/Versiyon-7.0.0-blue?style=flat-square)](https://github.com/vedattascier/mac-os-yetki-yukseltme)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20FreeBSD%20%7C%20OpenBSD%20%7C%20NetBSD-green?style=flat-square)](https://github.com/vedattascier/mac-os-yetki-yukseltme)
