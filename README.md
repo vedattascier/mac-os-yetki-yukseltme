@@ -149,7 +149,6 @@ chmod +x mac-os-yetki-yükseltme-araci.sh
 - [GTFOBins](https://gtfobins.github.io/) - Binary istismarı
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [HackTricks](https://book.hacktricks.xyz/)
-- [macOS Exploits](https://github.com/nickvourd/Privilege-Escalation)
 
 ## 👨‍💻 Geliştirici
 
